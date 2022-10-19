@@ -7,6 +7,7 @@
 - Open the solution file in Visual Studio 2022
 - Restore the nuget packages
 - Click on the play button (might take little time to download node modules for UI)
+- Upload Input.txt file after running the application (make modifications for multiple scenarios).
 
 # Program Structure
 - Backend:
