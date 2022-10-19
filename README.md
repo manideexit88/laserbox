@@ -5,6 +5,8 @@
 
 # How to run
 - Open the solution file in Visual Studio 2022
+- Install .Net Core 3.1 (If asked).
+- Download and Install Node Js: https://nodejs.org/en/download/
 - Restore the nuget packages
 - Click on the play button (might take little time to download node modules for UI)
 - Upload Input.txt file after running the application (make modifications for multiple scenarios).
