@@ -39,7 +39,7 @@ export class BoxComponent {
 
     // Parse input file
     parseAndReadBoxInput(fileInput: string | ArrayBuffer) {
-        var lines = fileInput.toString().split("\r\n");
+        var lines = fileInput.toString().split("\n");
         var breakCounter: number = 0;
         var columns: number = 0;
         var rows: number = 0;
