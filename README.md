@@ -5,11 +5,10 @@
 
 # How to run
 - Open the solution file in Visual Studio 2022
-- Restore the nuget packages
-- Click on the play button (might take little time to download node modules for UI)
+- Restore the nuget packages (Build Solution)
+- Click on the play button (might take little time to download node modules for UI for the first time)
 
 # Program Structure
-- Backend:
 - Web API + UI App (Angular)
 - Service Library 
 
